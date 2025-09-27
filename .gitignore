@@ -1,0 +1,11 @@
+.idea/
+.DS_Store
+
+# Vendor Dependencies
+vendor/
+
+**/*.tmp
+**/*.cache
+**/*.log
+**/*.secret
+*.local
